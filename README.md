@@ -9,10 +9,10 @@ Adjustable 100 Ω / 100 W resistive load, monitored by a TI INA228 preci
 
 ## What it does
 
-1. **Set the load** – Dial the wire‑wound rheostat (100 W, 100 Ω) to the desired resistance.  
-2. **Measure in real time** – The Pico polls the INA228 and computes voltage, current and power.  
-3. **Display + stream** – Instant read‑out on the OLED; identical data streamed over USB.  
-4. **Power** – Runs off the USB port *or* a single LiFePO₄ cell via the Pico’s VSYS pin.
+1. **Set the load** - Dial the wire‑wound rheostat (100 W, 100 Ω) to the desired resistance.  
+2. **Measure in real time** - The Pico polls the INA228 and computes voltage, current and power.  
+3. **Display + stream** - Instant read‑out on the OLED; identical data streamed over USB.  
+4. **Power** - Runs off the USB port *or* a single LiFePO₄ cell via the Pico’s VSYS pin.
 
 ---
 

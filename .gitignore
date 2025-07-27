@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+*.vscode
+
+firmware/test
+firmware/lib/README
+firmware/include/README
+firmware/.gitignore
